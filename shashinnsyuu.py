@@ -19,7 +19,7 @@ pagesource=driver.page_source
 
 id=[]
 
-f=open('shashinnsyuu.txt','w')
+f=open('###','w')#file name
 for i in range(0,25):
     i=i+1
     pagesource=driver.page_source
